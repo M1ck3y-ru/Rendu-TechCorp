@@ -34,7 +34,7 @@ recommandations dans `cyber/`.
 
 ### 🤖 IA — modèle financier validé + fine-tuning médical (LoRA)
 - ✅ Évaluation fonctionnelle du modèle financier : 12 questions métier, script et résultats ; confirmation via les métadonnées Ollama que le modèle dérive de la base propre.
-- 🔬 Mission expérimentale : dataset médical préparé et échantillonné + notebook de fine-tuning LoRA (QLoRA 4-bit) prêt à exécuter sur Colab.
+- ✅ Mission expérimentale : dataset médical préparé et échantillonné, fine-tuning LoRA (QLoRA 4-bit) exécuté sur Colab (T4) — 3 epochs, loss train/eval en baisse régulière, sans surapprentissage. Lien de partage Colab à ajouter dans le rapport.
 - 📁 Livrables → `ia/rapport-evaluation-phi3-financial.md`, `ia/rapport-finetuning-medical.md`, `ia/finetuning_medical_lora.ipynb`
 
 ### 📊 Data — dataset médical préparé + rapport de qualité
