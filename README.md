@@ -10,7 +10,6 @@ réparti par filière.
 |-----|---------|---------|
 | GARCIA Clément | Cyber | clement.garcia@ynov.com |
 | LEBAS Pacôme | Cyber | pacome.lebas@ynov.com |
-| TCHOUAR Sabrina | Infra | sabrina.tchouar@ynov.com |
 | DESULME Roberto | Infra | roberto.desulme@ynov.com |
 | MALLET Nayan | Dev | nayan.mallet@ynov.com |
 | KAMSU Hilary Capriaty | Data | hilarycapriaty.kamsu@ynov.com |
